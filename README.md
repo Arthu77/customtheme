@@ -6,10 +6,10 @@ DeepSeek Harness 的自定义主题插件：聊天窗口背景图、图片不透
 
 需要已安装 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)（`dsh` 命令可用）以及 `pnpm`。
 
-从 GitHub 安装（把地址换成你的仓库）：
+从 GitHub 安装：
 
 ```bash
-dsh plugin --profile web add github:你的名字/customtheme
+dsh plugin --profile web add github:Arthu77/customtheme
 ```
 
 从 npm 安装：

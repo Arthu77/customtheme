@@ -2,6 +2,13 @@
   "name": "customtheme",
   "description": "DeepSeek Harness custom theme plugin: background image, opacity, colors, and fonts for the web surface.",
   "version": "1.0.0",
+  "keywords": [
+    "dsh-plugin",
+    "dsh",
+    "theme",
+    "custom-theme",
+    "deepseek-harness"
+  ],
   "type": "module",
   "main": "lib/index.js",
   "exports": {

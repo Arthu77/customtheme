@@ -1,0 +1,6 @@
+# Self-registration patch: because the package declares dsh.bundle, this file
+# is applied as a composition layer after `dsh plugin add`. The insert row
+# below is what makes dsh-client-modules serve the /client bundle.
+- insert:
+    - id: ui-custom-theme
+      name: 'customtheme'

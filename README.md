@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![dsh-plugin](https://img.shields.io/badge/dsh--plugin-theme-7C3AED)
-[![npm version](https://img.shields.io/npm/v/customtheme)](https://www.npmjs.com/package/customtheme)
 
 DeepSeek Harness 的自定义主题插件：聊天窗口背景图、图片不透明度、全局配色（自动从图片提取主色）、输入框、消息气泡、文字与边框颜色，以及界面/代码字体。
 
@@ -14,12 +13,6 @@ DeepSeek Harness 的自定义主题插件：聊天窗口背景图、图片不透
 
 ```bash
 dsh plugin --profile web add github:Arthu77/customtheme
-```
-
-从 npm 安装：
-
-```bash
-dsh plugin --profile web add customtheme
 ```
 
 安装后重启 `dsh web` 即可。

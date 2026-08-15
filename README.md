@@ -32,7 +32,9 @@ dsh plugin --profile web add github:Arthu77/customtheme
 
 ## 截图
 
-> TODO：在此处添加一张「设置 → 自定义主题」页面的截图，例如：`![截图](screenshot.png)`
+![自定义主题设置页](ScreenShot.png)
+
+![自定义主题设置页 2](ScreenShot2.png)
 
 ## 许可
 
